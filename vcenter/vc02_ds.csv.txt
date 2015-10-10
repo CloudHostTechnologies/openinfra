@@ -1,0 +1,5 @@
+DatastoreName;DSType;DSSize;DSFree;DSStatus;isMultiHost
+DS-Shared07;VMFS;1024;500;Enable;yes
+DS-Shared08;VMFS;1024;464;Enable;yes
+DS-Shared09;VMFS;1024;750;Enable;yes
+DS-Shared10;VMFS;1024;230;Enable;yes

@@ -1,0 +1,7 @@
+?DatastoreName;DSType;DSSize;DSFree;DSStatus;isMultiHost
+DS-Shared01;VMFS;2048;500;Enable;yes
+DS-Shared02;VMFS;2048;464;Enable;yes
+DS-Shared03;VMFS;2048;850;Enable;yes
+DS-Shared04;VMFS;2048;230;Enable;yes
+DS-Shared05;VMFS;2048;1250;Enable;yes
+DS-Shared06;VMFS;2048;950;Enable;yes
